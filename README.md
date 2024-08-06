@@ -25,7 +25,7 @@ Dynamic IT professional with 2 years of experience in Network Security Administr
 
 
 ### Content Creator & Cybersecurity Enthusiast
-**Self-Employed** | Ottawa, ON Canada | Apr 2023 – Present
+**Self-Learning** | Ottawa, ON Canada | Apr 2023 – Present
 
 ### Projects
 
@@ -61,7 +61,7 @@ Dynamic IT professional with 2 years of experience in Network Security Administr
 
 
 ### Network Security Administrator
-**Green Light Worldwide Pvt. Ltd.** | Hobart, TAS Australia | Mar 2021 – Feb 2023 (Hybrid)
+**Green Light Worldwide Pvt. Ltd.** | Hobart, TAS Australia | Mar 2021 – Feb 2023
 
 - Configured and deployed Nessus Essentials for conducting credentialed vulnerability scans targeting Windows systems.
 - Implemented Vulnerability Management Function on sandbox networks including Discover, Priorities, Access, Report, Remediate and Verify.
