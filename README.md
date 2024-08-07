@@ -95,7 +95,3 @@ Skills Developed: Microsoft Active Directory | Burp Suite Scanner | SQLi | XSS |
 ## Soft Skills
 
 Active Listening | Adaptability | Critical Thinking | Decision-making | Problem-solving | Teamwork | Time Management | Empathy | Flexibility | Excellent Phone Etiquettes | Self-motivated | Leadership | Troubleshooting | Communication | Multitasking and Prioritization
-
-## Availability
-
-Full-time Mon- Fri (Available Weekends if needed) | Start Date: Immediately.
