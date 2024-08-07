@@ -1,7 +1,9 @@
 # AKSHAY PATEL
 *Vision: Building a secure digital world by learning and defending against emerging cyber threats.*
 
-📧 [akshay03patel@outlook.com](mailto:akshay03patel@outlook.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/akshay-patel-2303/) | 💻 [GitHub](https://github.com/AkshayPatel03)
+📍 Ottawa, ON K2J 6N7
+
+📧 [akshay03patel@outlook.com](mailto:akshay03patel@outlook.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/akshay-patel-2303/) | 💻 [GitHub](https://github.com/AkshayPatel03) 
 
 ---
 
