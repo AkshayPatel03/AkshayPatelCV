@@ -23,8 +23,7 @@ Dynamic IT professional with 2 years of experience in Network Security Administr
 
 ## Professional Experience
 
-
-### Content Creator & Cybersecurity Enthusiast
+### Cybersecurity Enthusiast and Content Creator
 **Self-Learning** | Ottawa, ON Canada | Apr 2023 – Present
 
 ### Projects
@@ -63,34 +62,28 @@ Dynamic IT professional with 2 years of experience in Network Security Administr
 ### Network Security Administrator
 **Green Light Worldwide Pvt. Ltd.** | Hobart, TAS Australia | Mar 2021 – Feb 2023
 
-- Configured and deployed Nessus Essentials for conducting credentialed vulnerability scans targeting Windows systems.
-- Implemented Vulnerability Management Function on sandbox networks including Discover, Priorities, Access, Report, Remediate and Verify.
-- Developed Python scripts and tools to automate malware scanning processes.
-- Implemented custom vulnerability assessment scripts using Python frameworks like Metasploit and Nmap.
-- Monitored system performance using packet sniffers and Splunk/SIEM tools.
-- Corrected network faults and malfunctions to restore connectivity.
+- Monitored and maintained network performance by configuring and managing routers, switches, and firewalls, resulting in a 25% increase in network reliability and a 30% reduction in downtime within 3 months.
+- Corrected network faults and malfunctions, restoring connectivity for over 100 users and facilities within an average resolution time of 4 hours.
+- Provided technical support to end-users, resolving 95% of connectivity issues and network access problems within 24 hours.
+- Maintained detailed documentation of network configurations, changes, and maintenance activities, updating records within 24 hours of changes.
 
-Skills Developed: Nessus Vulnerability Scan, Malware Analysis, Python Automation, Metasploit Pen Testing, Wireshark, Nmap.
+Skills Developed: Network Configuration | Network Performance Analysis | Hardware Management | IP addressing | VPN knowledge | Root Cause Analysis | Technical Support | Effective Communication | Nessus Vulnerability Scan | Malware Analysis | Cyber Kill Chain Framework | Git/GitHub | Python Automation | DNS/DHCP System | Disaster Recovery Planning | Wireshark | Nmap.
 
 ### IT Systems Administrator
 **Absolute I.T.** | Sunshine Coast, QLD Australia | Nov 2018 – Dec 2020
 
-- Set up user accounts, permissions, and passwords.
-- Supported, configured, and maintained Windows DNS and DHCP servers.
-- Utilized cloud-based Qualys Vulnerability Scanner for comprehensive vulnerability assessments.
-- Proficient in Burp Suite for web app security testing.
-- Generated reports outlining network performance and downtime issues.
+- Automated Active Directory administration tasks using PowerShell, leading to a 30% increase in efficiency for user account maintenance and deployment over a 3-month period.
+- Maintained cloud-hosted and on-site servers by applying patches and monitoring hardware health, leading to a 20% improvement in system uptime and performance over 6 months.
+- Applied Burp Suite for comprehensive web app security testing, identifying and mitigating SQL injection, XSS, CSRF, and auth bypass vulnerabilities, improving web app security posture by 30% within 3 months.
 
-Skills Developed: Qualys Vulnerability Scanner, Burp Suite Web Scanning, Office 365 Administration, PowerShell Scripting, Performance Monitoring.
+Skills Developed: Microsoft Active Directory | Burp Suite Scanner | SQLi | XSS | CSRF | Office 365 Administration | Azure Active Directory | Windows Server 2016-2019 | Permissions and Access Control | Spam Management | Shell/PowerShell Scripting
 
 ### Junior Java Developer
 **Softvan Pvt Ltd** | Ahmedabad, GUJ India | Apr 2015 – May 2016
 
-- Conducted full lifecycle software development from planning to deployment and maintenance.
-- Gathered and analyzed functional requirements into technical specifications.
-- Developed proficiency in WordPress, Java, JavaScript, and MySQL.
-
-Skills Developed: WordPress, Java, JavaScript, MySQL, Software Deployment.
+- Analyzed and translated functional requirements into technical specifications, improving project clarity and execution.
+- Evaluated hardware costs and security needs, optimizing budget allocation and enhancing system security.
+- Managed full lifecycle software development, ensuring efficient planning, deployment, and maintenance.
 
 ## Education
 
