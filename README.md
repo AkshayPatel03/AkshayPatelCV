@@ -1,4 +1,5 @@
-# Akshay Patel
+# AKSHAY PATEL
+*Vision: Building a secure digital world by learning and defending against emerging cyber threats.*
 
 📧 [akshay03patel@outlook.com](mailto:akshay03patel@outlook.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/akshay-patel-2303/) | 💻 [GitHub](https://github.com/AkshayPatel03)
 
@@ -26,7 +27,10 @@ Dynamic IT professional with 2 years of experience in Network Security Administr
 ### Cybersecurity Enthusiast and Content Creator
 **Self-Learning** | Ottawa, ON Canada | Apr 2023 – Present
 
-### Projects
+#### TryHackMe Practitioner
+Actively working on SOC 1 and Junior Penetration Tester career paths to enhance practical skills in cybersecurity. Engaged in hands-on labs and real-world simulations to develop expertise in security operations and penetration testing.
+
+#### Cybersecurity Projects
 
 #### 1. Active Directory Environment – Virtualization
 - **Description:** Set up Windows Server 2019 and Windows 11 in a VirtualBox Home Lab to practice Active Directory Administration, including DNS, DHCP, and RAS features.
