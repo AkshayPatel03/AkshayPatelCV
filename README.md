@@ -14,16 +14,16 @@ Windows System and Network Administrator with 1 year of experience in IT infrast
 
 ## Top Skills
 
--Endpoint Security & EDR (SentinelOne, Antivirus, Malware Protection)
--Cloud Solutions & M365 Administration (User, License, Security Policies)
--Vulnerability Scanning & Threat Assessment (Nessus, Nmap, Wireshark)
--Patch & Backup Management (N-able, Veeam, Disaster Recovery Planning)
--Active Directory & Identity Access Management (AD, DNS, DHCP, Group Policies)
--Firewall Configuration & VPN Security (Network Access & Remote Security)
--SIEM & Security Audits (Log Analysis, Cyber Kill Chain, Incident Response)
--Penetration Testing & Red Team Tools (Metasploit, Kali Linux)
--Python Automation & Scripting (Process Automation for Admin/Security tasks)
--Technical Troubleshooting & Documentation (Root Cause Analysis, ConnectWise)
+- Endpoint Security & EDR (SentinelOne, Antivirus, Malware Protection)
+- Cloud Solutions & M365 Administration (User, License, Security Policies)
+- Vulnerability Scanning & Threat Assessment (Nessus, Nmap, Wireshark)
+- Patch & Backup Management (N-able, Veeam, Disaster Recovery Planning)
+- Active Directory & Identity Access Management (AD, DNS, DHCP, Group Policies)
+- Firewall Configuration & VPN Security (Network Access & Remote Security)
+- SIEM & Security Audits (Log Analysis, Cyber Kill Chain, Incident Response)
+- Penetration Testing & Red Team Tools (Metasploit, Kali Linux)
+- Python Automation & Scripting (Process Automation for Admin/Security tasks)
+- Technical Troubleshooting & Documentation (Root Cause Analysis, ConnectWise)
 
 ## Professional Experience
 
